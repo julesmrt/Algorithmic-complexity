@@ -1,0 +1,1 @@
+### vous trouverez ici le resultat en executant le code vous devriez aussi avec un graphique avec matplotlib
